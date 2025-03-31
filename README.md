@@ -37,3 +37,7 @@ Implementér en responsiv sektion med tekst og ikoner i henhold til det medfølg
     - Tilføj en nedtællingstimer i pop-uppen, der tæller ned til kl. 15:00
     - Når timeren udløber, skal teksten automatisk ændres til:  
       "Bestil inden kl. 15 på hverdage, og få din ordre sendt afsted samme dag."
+
+# Opgave besvarelse
+
+dette måden jeg har løst opgaven på.
