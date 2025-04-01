@@ -1,4 +1,14 @@
-# ShopHelten's Junior Frontend Prøve
+# Opgave besvarelse
+
+dette måden jeg har løst opgaven på.
+
+
+## info
+Håber det er ok jeg har taget mig en del kreativ frihed. 
+Siden ikonerne ikke fuglte med lavede jeg mine egne, de er lavet i vector og sat ind som .png. 
+
+Siden der ikke var nævnt noget om stil og hvor tæt på billedet det skulle ligne, lavede jeg mit eget design.# ShopHelten's Junior Frontend Prøve
+
 
 ## Opgaveoversigt
 
@@ -38,14 +48,3 @@ Implementér en responsiv sektion med tekst og ikoner i henhold til det medfølg
     - Når timeren udløber, skal teksten automatisk ændres til:  
       "Bestil inden kl. 15 på hverdage, og få din ordre sendt afsted samme dag."
 
-# Opgave besvarelse
-
-dette måden jeg har løst opgaven på.
-
-
-## info
-
-Håber det er ok jeg har taget mig en del kreativ frihed. 
-Siden ikonerne ikke fuglte med lavede jeg mine egne, de er lavet i vector og sat ind som .png. 
-
-Siden der ikke var nævnt noget om stil og hvor tæt på billedet det skulle ligne, lavede jeg mit egen detsign.
